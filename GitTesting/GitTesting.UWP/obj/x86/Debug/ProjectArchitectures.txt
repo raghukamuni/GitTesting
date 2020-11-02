@@ -1,0 +1,1 @@
+D:\Samples\GitTesting\GitTesting.UWP\GitTesting.UWP.csproj;x86

@@ -1,0 +1,13 @@
+D:\Samples\GitTesting\GitTesting\bin\Debug\netstandard2.0\GitTesting.deps.json
+D:\Samples\GitTesting\GitTesting\bin\Debug\netstandard2.0\GitTesting.dll
+D:\Samples\GitTesting\GitTesting\bin\Debug\netstandard2.0\ref\GitTesting.dll
+D:\Samples\GitTesting\GitTesting\bin\Debug\netstandard2.0\GitTesting.pdb
+D:\Samples\GitTesting\GitTesting\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Samples\GitTesting\GitTesting\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Samples\GitTesting\GitTesting\obj\Debug\netstandard2.0\GitTesting.AssemblyInfoInputs.cache
+D:\Samples\GitTesting\GitTesting\obj\Debug\netstandard2.0\GitTesting.AssemblyInfo.cs
+D:\Samples\GitTesting\GitTesting\obj\Debug\netstandard2.0\GitTesting.csproj.CoreCompileInputs.cache
+D:\Samples\GitTesting\GitTesting\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Samples\GitTesting\GitTesting\obj\Debug\netstandard2.0\GitTesting.dll
+D:\Samples\GitTesting\GitTesting\obj\Debug\netstandard2.0\ref\GitTesting.dll
+D:\Samples\GitTesting\GitTesting\obj\Debug\netstandard2.0\GitTesting.pdb
